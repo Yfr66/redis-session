@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1491900459158_1" label="work" name="work">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/RemoteSystemsTempFiles" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Servers" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1491900472805_2" label="self" name="self"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1491894193302_0" label="Window Working Set" name="Aggregate for window 1491894193302"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1494235434250_5" label="Multiple Working Sets" name="Aggregate:self:work:">
+<workingSet IMemento.internal.id="self"/>
+<workingSet IMemento.internal.id="work"/>
+</workingSet>
+<mruList name="self"/>
+<mruList name="work"/>
+</workingSetManager>
